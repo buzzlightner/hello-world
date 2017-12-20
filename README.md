@@ -1,3 +1,3 @@
 # hello-world
 
-first time user.
+trying something new.
